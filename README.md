@@ -29,3 +29,14 @@ I chose the [StyleGAN2](https://colab.research.google.com/drive/1_fenx2FKJAHEPmg
 #### Training Process (Take the briefcase as an example)
 
 ![case](https://user-images.githubusercontent.com/81423727/174598742-3ee5ba42-4507-46bd-a85a-d7899bc6e80b.jpg)
+
+https://user-images.githubusercontent.com/81423727/174599300-371d5f1f-3628-43e2-ba06-22d7fa505d2a.mp4
+
+https://user-images.githubusercontent.com/81423727/174599346-13b20528-ef49-40a5-aa9b-288efed7287b.mp4
+
+https://user-images.githubusercontent.com/81423727/174599399-ae82b4dc-d14a-4b04-9239-6bc18f73e786.mp4
+
+https://user-images.githubusercontent.com/81423727/174599433-6f3da7e6-487a-4ea9-8f55-a4b94d1b29a3.mp4
+
+https://user-images.githubusercontent.com/81423727/174599473-8929881e-3f70-421b-915a-c4e358f56f1e.mp4
+
