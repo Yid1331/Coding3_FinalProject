@@ -24,6 +24,8 @@ I chose five different stages in person's life, the representative objects of ch
 ### 2.Train Dataseet
 I chose the [StyleGAN2](https://colab.research.google.com/drive/1_fenx2FKJAHEPmg-ceBdxEY2TsesnTq-) model to train my datasets.Each set of data was trained for about three hours.After training, I set six generated images, and generate this process as a video to achieve the effect of image transformation.
 
+![Screenshot_7](https://user-images.githubusercontent.com/81423727/174599050-fbc09697-6f05-46c7-b9ca-21fd5a796fe0.png)
+
 #### Training Process
 
 ![case](https://user-images.githubusercontent.com/81423727/174598742-3ee5ba42-4507-46bd-a85a-d7899bc6e80b.jpg)
