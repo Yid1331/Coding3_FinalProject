@@ -1,4 +1,4 @@
-# Coding3_Final Project
+# Coding3-Final Project: Time Tunnel
 Name: Xiaoyi Dong
 
 Student ID: 21035114
