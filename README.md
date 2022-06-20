@@ -52,4 +52,10 @@ After that I used C4D to model the tunnel.
 
 ![unreal](https://user-images.githubusercontent.com/81423727/174603838-fe3c84d9-80ba-4ef5-ad3c-26596df20c31.jpg)
 
+### 5.Training camera positions
 
+Use interactML to train camera positions, control video transparency, and tunnel lights.
+
+![Screenshot_11](https://user-images.githubusercontent.com/81423727/174606438-9296eb5e-ccf6-4890-b21e-d20632abfe20.png)
+
+[Training Location Video](https://www.youtube.com/watch?v=egJb-_nrVCE)
