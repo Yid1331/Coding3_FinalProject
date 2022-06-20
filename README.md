@@ -1,5 +1,6 @@
 # Coding3_FinalProject
 Name: Xiaoyi Dong
+
 Student ID: 21035114
 
 ## 01 Project Overview
@@ -17,12 +18,13 @@ After that, I used **interactML** to train the position of the lens, so that the
 ## 02 Design and Development Processes
 
 ### 1.Select, download, process datasets
-I chose five different stages in person's life, the representative objects of childhood, adolescence, youth, middle age, and old age, namely Ferrari Lego toys, books, briefcases, wedding dresses, and clocks. After that, I used [Jeff Heaton](https://www.youtube.com/watch?v=9sBQqlTtQ2k)'s method to download 5 sets of 512 * 512 px images representing items on the flickr website, each set of 200 images. After that, the obviously incorrect pictures are deleted, and the following 5 sets of data sets are formed.
+I chose five different stages in person's life, childhood, adolescence, youth, middle age, and old age.The corresponding representative items are Ferrari Lego toys, books, briefcases, wedding dresses, and clocks. After that, I used [Jeff Heaton](https://www.youtube.com/watch?v=9sBQqlTtQ2k)'s method to download 5 sets of 512 * 512 px images representing items on the [flickr](https://www.flickr.com/) website, each set of 200 images. After that, the obviously incorrect pictures are deleted, and the following 5 sets of data sets are formed.
 
 ![dataset](https://user-images.githubusercontent.com/81423727/174593552-774e7a0e-3c0f-4277-9be6-f525ae2175c1.jpg)
 
 ### 2.Train Dataseet
-I chose the [StyleGAN2](https://colab.research.google.com/drive/1_fenx2FKJAHEPmg-ceBdxEY2TsesnTq-) model to train my datasets.Each set of data was trained for about three hours.After training, I set six generated images, and generate this process as a video to achieve the effect of image transformation.
+
+**StyleGAN2** is more in line with the effect of the image transform I want to generate. And he can generate higher resolution images. I chose the [StyleGAN2](https://colab.research.google.com/drive/1_fenx2FKJAHEPmg-ceBdxEY2TsesnTq-) model to train my datasets.Each set of data was trained for about three hours.After training, I used this model to generate the 5 representative objects and images I wanted.
 
 ![Screenshot_7](https://user-images.githubusercontent.com/81423727/174599050-fbc09697-6f05-46c7-b9ca-21fd5a796fe0.png)
 
@@ -63,20 +65,29 @@ Use interactML to train camera positions, control video transparency, and tunnel
 ![Screenshot_14](https://user-images.githubusercontent.com/81423727/174607432-fcbedc86-981d-43f7-a9e3-70f59345b589.png)
 
 
-## 03 Reference
+
+## 03 Evaluation
+
+In the process of training the dataset, I found that the choice of the dataset has a great influence on the training results. For example, when I was training a LEGO Ferrari image set,the color difference of the generated image is very large, and the content of the image cannot be recognized at all. After that, I filtered the pictures in the dataset to make the content features of the pictures more obvious, and finally generated a fairly good image.
+
+I had hoped that the resulting image would have more varied image variations, but the final result didn't work out. This may be because when I process the dataset, the features of the images are too obvious, and the number of images in the dataset is too small. I will make improvements to this issue later.
+
+
+## 04 Reference
 
 #### Datasets: 
 
 https://drive.google.com/drive/folders/1Y0_d24zOXLASBDt9axQDGZilY9l8bE3b
 
+
 #### Code github link: 
 
 
-https://github.com/dvschultz/stylegan2-ada
+StyleGAN2 : https://github.com/dvschultz/stylegan2-ada
 
-https://colab.research.google.com/drive/1_fenx2FKJAHEPmg-ceBdxEY2TsesnTq-#scrollTo=pxxYlEKI9Gis
+Train datasets: https://colab.research.google.com/drive/1_fenx2FKJAHEPmg-ceBdxEY2TsesnTq-#scrollTo=pxxYlEKI9Gis
 
-https://github.com/jeffheaton/pyimgdata
+Download and resize images: https://github.com/jeffheaton/pyimgdata
 
 
 #### InteractML:
