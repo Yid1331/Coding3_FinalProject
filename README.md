@@ -14,4 +14,6 @@ After that, I used **interactML** to train the position of the lens, so that the
 ## 02 Design and Development Processes
 
 ### 1.Select, download, process datasets
-I chose five different stages in person's life, the representative objects of childhood, adolescence, youth, middle age, and old age, namely Ferrari Lego toys, books, briefcases, wedding dresses, and clocks. After that, I used [Jeff Heaton](https://www.youtube.com/watch?v=9sBQqlTtQ2k)'s method to download 5 sets of 512*512 images representing items on the flickr website, each set of 200 images. After that, the obviously incorrect pictures are deleted, and the following 5 sets of data sets are formed.
+I chose five different stages in person's life, the representative objects of childhood, adolescence, youth, middle age, and old age, namely Ferrari Lego toys, books, briefcases, wedding dresses, and clocks. After that, I used [Jeff Heaton](https://www.youtube.com/watch?v=9sBQqlTtQ2k)'s method to download 5 sets of 512 512 images representing items on the flickr website, each set of 200 images. After that, the obviously incorrect pictures are deleted, and the following 5 sets of data sets are formed.
+
+![dataset](https://user-images.githubusercontent.com/81423727/174593552-774e7a0e-3c0f-4277-9be6-f525ae2175c1.jpg)
