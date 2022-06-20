@@ -26,6 +26,6 @@ I chose the [StyleGAN2](https://colab.research.google.com/drive/1_fenx2FKJAHEPmg
 
 ![Screenshot_7](https://user-images.githubusercontent.com/81423727/174599050-fbc09697-6f05-46c7-b9ca-21fd5a796fe0.png)
 
-#### Training Process
+#### Training Process (Take the briefcase as an example)
 
 ![case](https://user-images.githubusercontent.com/81423727/174598742-3ee5ba42-4507-46bd-a85a-d7899bc6e80b.jpg)
