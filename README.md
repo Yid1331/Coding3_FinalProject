@@ -56,6 +56,9 @@ After that I used C4D to model the tunnel.
 
 Use interactML to train camera positions, control video transparency, and tunnel lights.
 
-![Screenshot_11](https://user-images.githubusercontent.com/81423727/174606438-9296eb5e-ccf6-4890-b21e-d20632abfe20.png)
+![train](https://user-images.githubusercontent.com/81423727/174607304-676f832f-0b7a-4636-85b8-a44f7d607ff6.jpg)
 
 [Training Location Video](https://www.youtube.com/watch?v=egJb-_nrVCE)
+
+![Screenshot_14](https://user-images.githubusercontent.com/81423727/174607432-fcbedc86-981d-43f7-a9e3-70f59345b589.png)
+
