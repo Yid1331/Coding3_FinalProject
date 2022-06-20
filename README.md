@@ -40,3 +40,10 @@ https://user-images.githubusercontent.com/81423727/174599433-6f3da7e6-487a-4ea9-
 
 https://user-images.githubusercontent.com/81423727/174599473-8929881e-3f70-421b-915a-c4e358f56f1e.mp4
 
+
+### 3.Modeling
+
+After that I used C4D to model the tunnel.
+
+![Screenshot_8](https://user-images.githubusercontent.com/81423727/174600749-7bce1e32-bbeb-4341-b76d-d5a5279f0ca0.png)
+
