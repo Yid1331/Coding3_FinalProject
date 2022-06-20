@@ -62,3 +62,17 @@ Use interactML to train camera positions, control video transparency, and tunnel
 
 ![Screenshot_14](https://user-images.githubusercontent.com/81423727/174607432-fcbedc86-981d-43f7-a9e3-70f59345b589.png)
 
+
+## 03 Reference
+
+#### Datasets: 
+
+https://drive.google.com/drive/folders/1Y0_d24zOXLASBDt9axQDGZilY9l8bE3b
+
+#### Code github link: 
+
+https://github.com/dvschultz/stylegan2-ada
+
+https://colab.research.google.com/drive/1_fenx2FKJAHEPmg-ceBdxEY2TsesnTq-#scrollTo=pxxYlEKI9Gis
+
+
