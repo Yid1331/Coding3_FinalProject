@@ -1,4 +1,4 @@
-# Coding3_FinalProject
+# Coding3_Final Project
 Name: Xiaoyi Dong
 
 Student ID: 21035114
